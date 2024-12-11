@@ -34,8 +34,8 @@ Ensure you have the following installed:
 Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
-cd award-winning-website
+git clone https://github.com/Hellnight2005/modern-web-clone.git
+cd modern-web-clone
 ```
 
 ### Installation
@@ -63,7 +63,7 @@ Visit [http://localhost:5173](http://localhost:5173) in your browser to view the
 Here's an overview of the project structure:
 
 ```
-award-winning-website/
+modern-web-clone/
 ├── public/        # Public assets
 ├── src/           # Source code
 │   ├── components/  # Reusable components
@@ -87,27 +87,6 @@ Assets used in the project can be found [here](https://drive.google.com/file/d/1
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-4. Push your changes:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as per the license terms.
@@ -118,5 +97,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 If you have any questions or feedback, feel free to reach out:
 
-- **GitHub**: [Abhijeet Shinde](https://github.com/Hellnight2005)
+- **Linked**: [Abhijeet Shinde](https://www.linkedin.com/in/abhijeet-shinde-8919a3315/)
 - **Email**: abhijeet2005shinde@gmail.com

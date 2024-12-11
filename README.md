@@ -1,6 +1,9 @@
 # Clone of Zentry
 
-![Project Video](https://path_to_your_video_thumbnail_or_image.png)
+<video width="320" height="240" autoplay>
+  <source src="public/videos/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 A modern, visually stunning website showcasing advanced web development techniques.
 

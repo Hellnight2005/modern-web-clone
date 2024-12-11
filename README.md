@@ -1,6 +1,6 @@
 # Clone of Zentry
 
-<video width="320" height="240" autoplay>
+<video width="320" height="240" autoplay muted >
   <source src="public/videos/Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
